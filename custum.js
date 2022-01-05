@@ -1,6 +1,4 @@
-console.log("Ciklas:")
-let skaičius = 1;
-while(skaičius <= 10) {
-    console.log(skaičius);
-    skaičius=skaičius+1;
+console.log("For ciklas:");
+for(let i = 10; i >= 1; i--){
+    console.log(i);
 }
